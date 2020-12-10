@@ -1,0 +1,33 @@
+.title {
+    margin-top: 50px;
+}
+.body{
+    margin-top: 30px;
+}
+.author{
+    margin-top: 60px;
+}
+.comments{
+    margin-top: 50px;
+}
+
+@media(max-width: 550px){
+    .title {
+        font-size: 22px;
+    }
+    .body{
+        font-size: 16px;
+    }
+  }
+
+  @media(max-width: 350px){
+    .title {
+        font-size: 18px;
+    }
+    .body{
+        font-size: 14px;
+    }
+    .comment{
+        font-size: 12px;
+    }
+  }
