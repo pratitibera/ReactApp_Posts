@@ -1,0 +1,14 @@
+.main img{
+	height:100vh;
+	background-position:bottom;
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+.cshidden{
+	list-style:none;
+}
+.gridContainer{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	align-content: stretch;
+}
