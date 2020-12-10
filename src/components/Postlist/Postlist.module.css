@@ -22,15 +22,15 @@
 .slidedetails{
 	text-align: center;
 	padding: 20px;
-	height: 90px;
+	height: 65px;
 }
 .slidedetails2{
 	text-align: center;
 	padding: 10px;
 }
 .btn{
-	height: 50px;
-	width: 150px;
+	height: 40px;
+	width: 120px;
 	-webkit-appearance: none;
 	box-shadow: -10px -10px 15px rgba(255,255,255,0.5), 10px 10px 15px rgba(70,70,70,0.12);
 	/* position: absolute; */
@@ -41,3 +41,17 @@
 	border: 8px solid #ececec;
 	outline: none;
 }
+
+/* height: 40px;
+	width: 120px;
+	color: white;
+	-webkit-appearance: none;
+	box-shadow: -10px -10px 15px rgba(255,255,255,0.5), 10px 10px 15px rgba(70,70,70,0.12);
+	/* position: absolute; */
+	/* transform: translate(-50%, -50%); */
+	/* top: 50%; */
+	/* left: 50%; */
+	/* border-radius: 10px;
+	background-color: #007791;
+	border: 8px solid  #007791;
+	outline: none; */ 

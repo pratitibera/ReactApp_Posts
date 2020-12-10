@@ -23,6 +23,10 @@ function Home() {
         <img src={logo}></img>
         
         </div> */}
+        <div style={{textAlign: 'center', marginTop: '40px', marginBottom: '70px', fontFamily: 'robot', fontSize: '20px'}}>
+        <h1>WELCOME TO THE BLOG POST</h1>
+
+        </div>
         <ul id="autoWidth" className={styles.cshidden}>
         <div>
           {

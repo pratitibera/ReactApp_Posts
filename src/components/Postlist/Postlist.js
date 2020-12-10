@@ -17,7 +17,9 @@ const Postlist = ({post}) => {
 							<Link to={{ pathname: `/post/${post.id}`, data: post}}><Button className={styles.btn}>VIEW POST</Button></Link>
 						</div>
 					</div>
-					<img src={logo} style={{position: 'absolute', width: '100%', height: '100%', zIndex: '0', top: '-500px'}}/>
+					{/* <img src={logo} style={{position: 'absolute', width: '100%', height: '100%', top:'0px',  zIndex: '0'}}/> */}
+					
+					{/* <img src={logo} style={{position: 'absolute', width: '100%', height: '100%', zIndex: '0',}}/> */}
 				</div>
 			</li>	
 		</div>
